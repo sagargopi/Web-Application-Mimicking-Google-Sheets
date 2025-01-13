@@ -39,7 +39,3 @@ web-sheets/
 - Functions: =SUM(A1:A5), =AVERAGE(A1:A5)
 - Cell references: =A1, =B2
 - Cell ranges: A1:A5, B1:B10
-
-## License
-
-MIT License
